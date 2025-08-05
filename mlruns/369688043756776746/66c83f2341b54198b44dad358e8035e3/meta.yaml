@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/369688043756776746/66c83f2341b54198b44dad358e8035e3/artifacts
+end_time: 1754394155229
+entry_point_name: ''
+experiment_id: '369688043756776746'
+lifecycle_stage: active
+run_id: 66c83f2341b54198b44dad358e8035e3
+run_name: lgbm
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754394151760
+status: 3
+tags: []
+user_id: funavry

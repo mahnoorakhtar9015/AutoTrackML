@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/369688043756776746
+creation_time: 1754393554141
+experiment_id: '369688043756776746'
+last_update_time: 1754393554141
+lifecycle_stage: active
+name: AUTOMLTRAINER_regression

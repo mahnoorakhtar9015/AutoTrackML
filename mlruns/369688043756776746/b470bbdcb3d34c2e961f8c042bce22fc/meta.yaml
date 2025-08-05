@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/369688043756776746/b470bbdcb3d34c2e961f8c042bce22fc/artifacts
+end_time: 1754393781137
+entry_point_name: ''
+experiment_id: '369688043756776746'
+lifecycle_stage: active
+run_id: b470bbdcb3d34c2e961f8c042bce22fc
+run_name: linear
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754393777287
+status: 3
+tags: []
+user_id: funavry
