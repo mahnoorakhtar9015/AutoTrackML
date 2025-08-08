@@ -1,4 +1,4 @@
-#  AutoML Trainer: Automated Model Selection with MLflow Tracking
+#  AutoTrackML: Automated Model Selection with MLflow Tracking
 
 This project automates the process of:
 - Selecting the best regression model
